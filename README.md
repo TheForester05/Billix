@@ -4,7 +4,7 @@ Billix is a CRM for your business. Manage your customers, your tickets and your 
 Current version : 0.0
 
 # Technology
-Billix is using Laravel framework, version 5.4
+Billix is using PHP 7 and MySQL and jQuery.
 
 # Future updates
 - Initial Git
