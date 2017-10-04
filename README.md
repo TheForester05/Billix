@@ -6,7 +6,7 @@ Billix is a CRM for your business. Manage your customers, your tickets and your 
 Current version : 0.0
 
 # Technology
-Billix is using PHP 7 and MySQL and jQuery.
+Billix is using PHP 7 and MySQL and jQuery and AdminLTE 2.
 
 # Future updates
 - Initial Git
